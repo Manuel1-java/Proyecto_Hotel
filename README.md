@@ -1,2 +1,7 @@
 # Proyecto_Hotel
 Hotel (Proyecto - Tópicos Avanzados de Programación)
+
+Este proyecto fue decidido ya que al existir diversas formas de aplicar los temas ya vistos en un solo programa, el desarrollarlo en torno a un hotel puede englobar más fácilmente esos temas.
+Usando el MCV (Modelo - Controlador - Vista) para estructurar de mejor forma el proyecto y sea más sencilla su comprensión tanto de su programación como de su funcionamiento y propósito, siendo que al hablar del modelo se refiere a la parte de la base de datos que se necesitan para que el propio programa guarde y consulte en su ejecución, en este caso se usaría el lenguaje SQL con ayuda del IDE MySQL Workbench. El controlador se refiere a toda la parte técnica que hace que el proyecto se mantenga estructurado, usando clases que controlan el funcionamiento y definiendo todos los térrminos usados en la parte visual que se explicará a continuación. La vista se enfoca en los JFrame usados siendo parte importante ya que es la interfaz en la que el usuario interactúa con diversos botones, barras de menú, grupo de botones, imágenes, tablas, listas, cajas de opciones, campos de texto, etc. que hacen que el uso del sistema sea intuitivo.
+Siendo el lenguaje de programación usado en la creación de las clases tanto del apartado de Vista como del Controlador es Java, donde utilizando el IDE NetBeans se desarrolla todo el proyecto por su simplicidad de editar los JFrame y de toda la programación.
+
